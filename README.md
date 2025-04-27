@@ -6,11 +6,13 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About the bot</h2>
 
 ###
 
-<p align="left">This bot is made for learning purposes only</p>
+<p align="left">This bot is made for learning purposes only
+
+this bot will make a database about whats ur project is about, is it in development, and also things about the user</p>
 
 ###
 
