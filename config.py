@@ -1,0 +1,2 @@
+TOKEN = "ENTER YOUR TOKEN HERE"
+DATABASE = 'tutorial.db'
